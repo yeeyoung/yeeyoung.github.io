@@ -1,2 +1,2 @@
-# yeeyoung.github.io
-## This is a test website and under construction.
+# ericyoung95.github.io
+## This is a personal website under construction.
