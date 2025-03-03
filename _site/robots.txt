@@ -1,2 +1,15 @@
-User-agent: Googlebot
+User-agent: *
 Allow: /
+Allow: /assets/
+Allow: /reports/
+Allow: /articles/
+Allow: /publications/
+Allow: /pdfs/
+Allow: /*.pdf$
+Allow: /*.html$
+Allow: /*.doc$
+Allow: /*.docx$
+Disallow: /cgi-bin/
+Disallow: /wp-admin/
+
+Sitemap: https://yeeyoung.github.io/sitemap.xml
