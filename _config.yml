@@ -56,5 +56,5 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
-exclude:
-  - sitemap.xml
+# exclude:
+#   - sitemap.xml
