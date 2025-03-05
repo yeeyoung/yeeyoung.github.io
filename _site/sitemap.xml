@@ -19,37 +19,37 @@
     <!-- Individual Publication Pages (if they exist) -->
     <!-- Repeat this block for each publication -->
     <url>
-        <loc>https://yeeyoung.github.io/reports/hotel_pr_eng.html</loc>
+        <loc>https://yeeyoung.github.io/reports/regression_english.html</loc>
         <lastmod>2025-03-01</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.9</priority>
     </url>
 	<url>
-        <loc>https://yeeyoung.github.io/reports/hotel_pr_dutch.html</loc>
+        <loc>https://yeeyoung.github.io/reports/regression_dutch.html</loc>
         <lastmod>2025-03-01</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.9</priority>
     </url>
 	<url>
-        <loc>https://yeeyoung.github.io/reports/FORIP_eng.html</loc>
+        <loc>https://yeeyoung.github.io/reports/Identification_english.html</loc>
         <lastmod>2025-03-01</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.9</priority>
     </url>
 	<url>
-        <loc>https://yeeyoung.github.io/reports/FORIP_dut.html</loc>
+        <loc>https://yeeyoung.github.io/reports/Identification_dutch.html</loc>
         <lastmod>2025-03-01</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.9</priority>
     </url>
 	<url>
-        <loc>https://yeeyoung.github.io/reports/quadrotor_backstepping_eng.html</loc>
+        <loc>https://yeeyoung.github.io/reports/quadrotor_english.html</loc>
         <lastmod>2025-03-01</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.9</priority>
     </url>
 	<url>
-        <loc>https://yeeyoung.github.io/reports/quadrotor_backstepping_dut.html</loc>
+        <loc>https://yeeyoung.github.io/reports/quadrotor_dutch.html</loc>
         <lastmod>2025-03-01</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.9</priority>
